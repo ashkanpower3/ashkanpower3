@@ -65,12 +65,12 @@
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub stats -->
   <a href="https://github.com/PuzzleTakX">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=PuzzleTakX" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ashkanpower3" />
   </a>
   
   <!-- Top programming languages -->
   <a href="https://github.com/PuzzleTakX">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=PuzzleTakX&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashkanpower3&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 
