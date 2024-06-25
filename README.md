@@ -4,13 +4,13 @@
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p> -->
 
-![bahman teymouri nezhad](https://github.com/ashkanpower3/ashkanpower3/blob/main/covers.png?raw=true)
+![ashkan_power](https://github.com/ashkanpower3/ashkanpower3/blob/main/covers.png?raw=true)
 
 <div align="center">
   <h1>
     <a href="https://github.com/kebasyaty/kebasyaty">
       <img alt="Welcome text"
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6855D3&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+PuzzleTak%F0%9F%91%8B">
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6855D3&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Ashkan%F0%9F%91%8B">
     </a>
   </h1>
 </div>
@@ -76,43 +76,13 @@
 
 
 ***
-<details><summary><b>C++ & Dart</b></summary>
-<p>
-  
-|Name|Version|Description|
-| :---------------- | :----------------: | :---------------- |
-| [flutter_stepindicator](https://github.com/ashkanpower3/flutter_stepindicator)|0.0.2| FlutterStepIndicator is a versatile Flutter widget designed for creating step indicators to visualize multi-step processes. It offers extensive customization options and features to enhance the user experience.|
-| [puzzletak_neon_widget](https://github.com/ashkanpower3/puzzletak_neon_widget)|1.0.5| A Neon widget for Flutter: With this widget, you can bring all your text to life with neon animations for flutter|
-| [NavigationView](https://github.com/ashkanpower3/navigation_view)|1.0.6| NavigationView is a Flutter package that provides a navigation component with customizable colors and icons.|
-| [RingSizerView](https://github.com/ashkanpower3/ring_size_view)|1.0.9| A Flutter package that provides a custom widget for calculating and displaying ring sizes.|
-
-</p></details>
-
-<details><summary><b>Java</b></summary>
-<p>
-  
-|Name|Version|Description|
-| :---------------- | :----------------: | :---------------- |
-| [PuzzleTak_AudioWaveSeekBar](https://github.com/ashkanpower3/PuzzleTak_AudioWaveSeekBar)|1.0.0| PuzzleTak_AudioWaveSeekBar a libray for android and basic4android|
-
-</p></details>
-
-<details><summary><b>visual Basic</b></summary>
-<p>
-  
-|Name|Version|Description|
-| :---------------- | :----------------: | :---------------- |
-| [Loading](https://github.com/ashkanpower3/Loading)|1.0.0| Loading library for basic4android custom class|
-| [PuzzleTak AudioPlayer](https://github.com/ashkanpower3/PuzzleTak_AudioPlayer)|1.0.0| Audio Playback Library with Visualizer library for basic4android custom class|
-
-</p></details>
 
 <img width=0 height=0 src="https://komarev.com/ghpvc/?username=ashkanpower3&color=1C4768" />
 <div align="left">
   <div align="center">
-   <img width="64" alt="PuzzleTak | BahmanTeymouriNezhad" src="https://github.com/ashkanpower3/ashkanpower3/blob/main/logo.png?raw=true">
+   <img width="64" alt="ashkanpower3 | ashkan saeedian" src="https://github.com/ashkanpower3/ashkanpower3/blob/main/logo.png?raw=true">
     <br>
-    <b>PuzzleTak | BahmanTeymouriNezhad</b>
+    <b>ashkanpower3 | ashkan saeedian</b>
     <br>
      <br>
     <p align="center">
@@ -123,8 +93,8 @@
   <img alt="Profile Counter" src="https://profile-counter.glitch.me/ashkanpower3/count.svg">
 </p>
     <br>
-    <a href="https://www.instagram.com/puzzletak/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%3E&color=F74262&logo=Instagram&flat-square&logoColor=white&labelColor=F74262"></a>
-    <a href="https://t.me/puzzletak/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%3E&color=0084C6&logo=Telegram&flat-square&logoColor=white&labelColor=0084C6"></a>
-    <a href="mailto:ashkanpower3@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%3E&color=C5211F&logo=gmail&flat-square&logoColor=white&labelColor=C5211F"></a>
+    <a href="https://www.instagram.com/ashkanpower3/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%3E&color=F74262&logo=Instagram&flat-square&logoColor=white&labelColor=F74262"></a>
+    <a href="https://t.me/ashkanpower3/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%3E&color=0084C6&logo=Telegram&flat-square&logoColor=white&labelColor=0084C6"></a>
+    <a href="mailto:ashkan2arash@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%3E&color=C5211F&logo=gmail&flat-square&logoColor=white&labelColor=C5211F"></a>
   </div>
 </div>
